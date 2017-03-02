@@ -1,0 +1,11 @@
+{
+"author":"Hong Ying",
+"name":"censorify",
+"version":"0.1.1",
+"discription":"censors words out of text",
+"main":"consortext",
+"dependencies":{},
+"engines":{
+"node":"*"
+}
+}
